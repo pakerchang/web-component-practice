@@ -8,6 +8,7 @@ yarn dev
 # [來源](https://www.youtube.com/watch?v=pN7fC2vb1Ig)
 
 # 檔案結構
+```
 ├── A.html
 ├── B.html
 ├── C.html
@@ -29,4 +30,5 @@ yarn dev
 │  └── main.js  
 ├── vite.config.js // 改寫 entry 地址及名稱、動態路徑
 └── yarn.lock
+```
 
